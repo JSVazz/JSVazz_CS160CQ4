@@ -2,7 +2,7 @@ Q1: CamelCase
 The time complexity of this code is O(n) because we check each element 1 time 
 in order to determine if it is uppercase and therefore the beggining of a new word
 We navigate each letter by using a singular for loop
-The Space complexity of this code is O(1) because hte input is a non chagning string that does not change in any way as the method runs
+The Space complexity of this code is O(1) because the input is a non chagning string that does not change in any way as the method runs
 
 
 C2: Correctness & Loop Imvariant
